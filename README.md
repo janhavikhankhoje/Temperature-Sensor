@@ -1,0 +1,1 @@
+I worked on a temperature sensor/monitor for over a year to acheive a precision greater than 0.1°C across the calibrated temperature range. This sensor accounts for changes in ambient temperature and measures a range of 35°C - 45°C. Two thermistors are used to measure surrounding temperature and one is placed horizontally to be able to interface with the wrist.
